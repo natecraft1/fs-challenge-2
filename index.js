@@ -19,3 +19,18 @@ function findI(arr, i) {
   }
 
 }
+
+// SQL
+
+Given :
+
+State
+  state_id
+  state_name
+City
+  city_id
+  state_id
+  city_name
+  population
+
+Write a query that gives the 2 most populated cities in each state.
